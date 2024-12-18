@@ -27,4 +27,6 @@ public class Teacher {
     //工号
     private String tno;
 
+    private String password;
+
 }
